@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 3007.9297 3007.9277"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Rand.svg"
+   width="3007.9297"
+   height="3007.9277"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.12455279"
+     inkscape:cx="1031.6911"
+     inkscape:cy="1766.3193"
+     inkscape:window-width="1280"
+     inkscape:window-height="730"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="path2-2"
+     style="fill:#000000;stroke-width:0"
+     d="M 1503.9648,0 A 1503.9642,1503.9642 0 0 0 0,1503.9648 1503.9642,1503.9642 0 0 0 1503.9648,3007.9277 1503.9642,1503.9642 0 0 0 3007.9297,1503.9648 1503.9642,1503.9642 0 0 0 1503.9648,0 Z m 0,64.230469 A 1439.7345,1439.7345 0 0 1 2943.6992,1503.9648 1439.7345,1439.7345 0 0 1 1503.9648,2943.6992 1439.7345,1439.7345 0 0 1 64.230469,1503.9648 1439.7345,1439.7345 0 0 1 1503.9648,64.230469 Z" />
+</svg>
